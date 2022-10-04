@@ -81,3 +81,33 @@ var first ="kevin";
 var name_value= first[2];
 console.log(name_value);
 
+
+//Arrays:
+var myarray=[50,60,70];
+var mydata = myarray[1];
+console.log(mydata);
+// replace or change the elements in the array
+myarray[1] = 70;
+console.log(myarray);
+
+// access of multi dimensional array:
+var myarray = [[1,2,3],[3,4,5],[[[1,2,3],6],7,8]];
+var output = myarray[2][0][0];
+console.log(output);
+
+//Introduce a function;
+function string(){
+  console.log("Hello! This is the function.");
+}
+string();                 //calling a function.
+
+//function with mathematics values:
+function math(a,b){
+  console.log(a-b);
+  console.log(a+b);
+  console.log(a*b);
+  console.log(a/b);
+}
+math(10,5);
+
+
