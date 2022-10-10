@@ -111,3 +111,35 @@ function math(a,b){
 math(10,5);
 
 
+/*
+//Solution one by one
+"JavaScript"
+undefined
+10
+5
+10
+"Ford"
+30
+9
+5
+51
+39
+0.234
+2
+42
+12
+210 6
+"My name is John"
+"h"
+60
+// [object Array] (3)
+[50,70,70]
+// [object Array] (3)
+[1,2,3]
+"Hello! This is the function."
+5
+15
+50
+2
+*/
+
